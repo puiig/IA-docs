@@ -9,10 +9,10 @@ Subdisciplina del campo de la informática, que busca la creación de mmáquinas
 
 ## CAMPOS DE LA INTELIGENCIA ARTIFICIAL
 
-*Robótica
-*NPL
-*Voz
-*Texto
+* Robótica
+* NPL
+* Voz
+* Texto
 
 ## APRENDIZAJE AUTOMÁTICO (MACHINE LEARNING)
 Rama del campo de la Inteligencia Artificial, que busca cómo dotar a las máquinas de capacidad de aprendizaje.
