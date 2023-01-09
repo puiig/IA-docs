@@ -23,3 +23,22 @@ Rama del campo de la Inteligencia Artificial, que busca cómo dotar a las máqui
 *Apr. No Supervisado
 *Apr. Reforzado
 
+##TÉCNICAS DE APRENDIZAJE AUTOMÁTICO
+*arboles dedecision
+*modelos de regresion
+*de clasificacion
+*de clusteracion
+*de redes neuronales
+
+##REDES NEURONALES
+Son capaces de aprender de forma jerarquizada, estan formadas por capas de neuronas donde las primeras capas aprenden conceptos mas co ncretos. y las capas posteriores, conceptso mas abstractos
+tambien son conocidos como algoritmos de deep learning
+
+##BIG DATA
+Es un atendencia de acumulación de datos que han venido favorecida por el abaratamiento de los dispositivos de almacenamiento, la digitalización y una percepción a la hora de analizar datos.
+
+ambién se refiere al proceso de análisis de estos casos, desde su captura hasta su transformación en conocimiento.
+
+#DEEP LEARNING
+
+
