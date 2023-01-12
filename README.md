@@ -5,7 +5,7 @@ Subdisciplina del campo de la informática, que busca la creación de mmáquinas
 
 ## TIPOS DE IA: Débil vs Fuerte
   * Débil: Aquellos sistemas que pueden cumplir solo con un conjunto muy limitado de tareas.
-  * Fuerte: Aquellos sistemas que se pueden aplicxar a una gran variedad de problemas y dominios diferentes.
+  * Fuerte (general): Aquellos sistemas que se pueden aplicxar a una gran variedad de problemas y dominios diferentes.
 
 ## CAMPOS DE LA INTELIGENCIA ARTIFICIAL
 
@@ -40,3 +40,11 @@ Es un atendencia de acumulación de datos que han venido favorecida por el abara
 También se refiere al proceso de análisis de estos casos, desde su captura hasta su transformación en conocimiento.
 
 # DEEP LEARNING
+
+deep mind
+hitos
+alphago
+alphastar
+alphacode
+gato
+alphafold
