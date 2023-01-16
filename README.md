@@ -41,10 +41,10 @@ También se refiere al proceso de análisis de estos casos, desde su captura has
 
 # DEEP LEARNING
 
-deep mind
-hitos
-alphago
-alphastar
-alphacode
-gato
-alphafold
+# DEEP MIND
+## HITOS 
+* alphago
+* alphastar
+* alphacode
+* gato
+* alphafold
