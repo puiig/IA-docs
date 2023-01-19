@@ -20,7 +20,7 @@ Vamos a añadir cuatro clases, una para cada tipo de residuos que hemos elegido:
 
 ## TEST 1
 Probamos una caja de plástico.
-https://github.com/puiig/IA-docs/blob/main/Resultado%20pruebas%20de%20la%20IA/Screenshot_20230119_132444.png
+![]https://github.com/puiig/IA-docs/blob/main/Resultado%20pruebas%20de%20la%20IA/Primer%20intento%20IA.png
 Resultado
 
 ## Interacción 2 
