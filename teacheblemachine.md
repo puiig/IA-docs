@@ -6,7 +6,7 @@ Vamos a crear un modelo para clasificación de residuos en 4 contenedores: verde
 
 ## Interacción 1
 
-1. Elección de clases y datos de entrenamiento
+1. Elección de clases y datos de entrenamiento.
 Vamos a añadir cuatro clases, una para cada tipo de residuos que hemos elegido:
 
 * Contenedor amarillo
@@ -33,6 +33,6 @@ Resultado:
 
 ## Interacción 2 
 
-Mejora de los datos de entrenamiento (opción 1)
-Mejora de los parámetros de entrenamiento (opción 2)
+Mejora de los datos de entrenamiento (opción 1).
+Mejora de los parámetros de entrenamiento (opción 2).
 Evaluación del modelo y conclusiones.
