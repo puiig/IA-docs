@@ -19,13 +19,14 @@ Vamos a añadir cuatro clases, una para cada tipo de residuos que hemos elegido:
 3. Evaluación del modelo
 
 ## TEST 1
+
 Probamos una caja de plástico transparente.
 
 Resultado:
 
 ## TEST 2
 Probamos una caja de plástico azul
-
+![]https://github.com/puiig/IA-docs/blob/main/Resultado%20pruebas%20de%20la%20IA/Primer%20intento%20IA.png
 Resultado:
 
 
