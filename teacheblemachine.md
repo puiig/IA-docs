@@ -26,7 +26,7 @@ Resultado:
 
 ## TEST 2
 Probamos una caja de plástico azul
-![]https://github.com/puiig/IA-docs/blob/main/Resultado%20pruebas%20de%20la%20IA/Primer%20intento%20IA.png
+![]
 Resultado:
 
 ## TEST 3
