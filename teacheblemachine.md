@@ -35,7 +35,7 @@ __Resultado__: Debido al color es posible que haya confundido en objeto con simi
 ## TEST 3
 Probamos con un recipiente de vidrio con una planta dentro.
 
-![]
+![](https://github.com/puiig/IA-docs/blob/main/Tercer%20%20intento%20IA.png)
 
 __Resultado__: Al tener varios objetos, la IA se ha decantado por aquello más fácil de reconocer, la bote de vidrio, clasificándolo en el contenedor correcto, el verde. Sin embargo, es posible que por el color haya marcado también el amarillo. Además, debido a la planta de su interior,ha indicado el contenedor orgánico.
 
