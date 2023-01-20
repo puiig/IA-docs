@@ -19,9 +19,15 @@ Vamos a añadir cuatro clases, una para cada tipo de residuos que hemos elegido:
 3. Evaluación del modelo
 
 ## TEST 1
-Probamos una caja de plástico.
+Probamos una caja de plástico transparente.
 
-Resultado
+Resultado:
+
+## TEST 2
+Probamos una caja de plástico azul
+
+Resultado:
+
 
 ## Interacción 2 
 
