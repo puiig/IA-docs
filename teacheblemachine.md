@@ -24,7 +24,7 @@ Entrenamiento del modelo:
 
 ## Paso 3
 
-Evaluación del modelo con las imágenes ofrecidas por la carpeta de Aules.
+Evaluación del modelo con las imágenes ofrecidas por la carpeta test 2 de Aules.
 
 ## TEST 1
 
@@ -49,7 +49,7 @@ __Resultado__:
 
 ## TEST 4
 
-![]()
+![](https://github.com/puiig/IA-docs/blob/main/Prueba%204.png)
 
 __Resultado__:
 
@@ -59,4 +59,8 @@ __Resultado__:
 ![]()
 
 __Resultado__:
+
+#### Tabla de excel: Resultado de la IA con las imágenes de test 1 de Aules.
+
+
 
