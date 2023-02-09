@@ -17,9 +17,14 @@ Vamos a añadir cinco clases, una para cada tipo de residuos que hemos elegido:
 * Contenedor orgánico
 * Contenedor gris
 
-2. Entrenamiento del modelo:
+## Paso 2
 
-3. Evaluación del modelo con las imágenes ofrecidas por la carpeta de Aules.
+Entrenamiento del modelo:
+
+
+## Paso 3
+
+Evaluación del modelo con las imágenes ofrecidas por la carpeta de Aules.
 
 ## TEST 1
 
@@ -37,7 +42,7 @@ __Resultado__:
 
 ## TEST 3
 
-![]()
+![](https://github.com/puiig/IA-docs/blob/main/Prueba%203.png)
 
 __Resultado__:
 
