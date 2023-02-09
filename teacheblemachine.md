@@ -23,7 +23,35 @@ Vamos a añadir cinco clases, una para cada tipo de residuos que hemos elegido:
 
 ## TEST 1
 
-![](
+![](https://github.com/puiig/IA-docs/blob/main/Prueba%201.png)
 
 
 __Resultado__:
+
+## TEST 2
+
+![]()
+
+__Resultado__:
+
+
+## TEST 3
+
+![]()
+
+__Resultado__:
+
+
+## TEST 4
+
+![]()
+
+__Resultado__:
+
+
+## TEST 5
+
+![]()
+
+__Resultado__:
+
