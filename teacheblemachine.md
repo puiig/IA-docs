@@ -30,7 +30,7 @@ __Resultado__:
 
 ## TEST 2
 
-![]()
+![](https://github.com/puiig/IA-docs/blob/main/Prueba%202.png)
 
 __Resultado__:
 
