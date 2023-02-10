@@ -19,12 +19,26 @@ Vamos a añadir cinco clases, una para cada tipo de residuos que hemos elegido:
 
 ## Paso 2
 
-Entrenamiento del modelo:
+Entrenamiento del modelo añadiendo diferentes imágenes.
+
+* __Resultado de entrenamiento con imágenes propias:__
+
+![](https://github.com/puiig/IA-docs/blob/main/Primer%20intento.png)
+
+![](https://github.com/puiig/IA-docs/blob/main/Segundo%20intento%20IA.png)
+
+![](https://github.com/puiig/IA-docs/blob/main/Cuarto%20intento.png)
+
+## Paso 3 
+
+__Evaluación del modelo con imágenes propias:__
+
+El modelo falla al dar los resultados por confusión de colores generalmente.
 
 
-## Paso 3
+## Paso 4
 
-Evaluación del modelo con las imágenes ofrecidas por la carpeta test 2 de Aules.
+* #### Evaluación del modelo con las imágenes ofrecidas por la carpeta test 2 de Aules.
 
 ## TEST 1
 
@@ -54,13 +68,13 @@ __Resultado__:
 __Resultado__:
 
 
-## TEST 5
+* #### Tabla de excel: Resultado de la IA con las imágenes de test 1 de Aules.
 
-![]()
-
-__Resultado__:
-
-#### Tabla de excel: Resultado de la IA con las imágenes de test 1 de Aules.
-
-
-
+|   |                               Prueba con Teacheable Machine y el conjunto de imágenes del Test 1                                    |
+|:-:|:------------------------------------------------------------------:|:-------------------:|:----------:|:-------------------:|:-:|:-:|
+|   |                              ELEMENTO                              | CONTENEDOR SUGERIDO | PORCENTAJE | CONTENEDOR ADECUADO |   |   |
+| 1 |                            periodico.jpg                           |         Azul        |    100%    |         Azul        |   |   |
+| 2 |                            restos2.jpeg                            |       Orgánico      |     85%    |       Orgánico      |   |   |
+| 3 |           Apo 33 Reflejo-256x256.jpg (botella de vidrio)           |        Verde        |     85%    |        Verde        |   |   |
+| 4 |                              pañal.jpg                             |        Gris         |     90%    |         Gris        |   |   |
+| 5 |                         tarro_conserva.jpg                         |        Gris         |     47%    |        Verde        |   |   |
