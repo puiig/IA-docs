@@ -32,14 +32,14 @@ Entrenamiento del modelo añadiendo diferentes imágenes.
 
 ## Paso 3 
 
-Evaluación del modelo con imágenes propias:
+__Evaluación del modelo con imágenes propias:__
 
 El modelo falla al dar los resultados por confusión de colores generalmente.
 
 
 ## Paso 4
 
-* #### Evaluación del modelo con las imágenes ofrecidas por la carpeta test 2 de Aules.
+Evaluación del modelo con las imágenes ofrecidas por la carpeta test 2 de Aules.
 
 ## TEST 1
 
@@ -80,4 +80,4 @@ Los resultados han sido positivos.
 
 __Evaluación del modelo con imágenes de Aules:__ 
 
-Los resultados han sido generalmente positivivos, excepto por la última prueba, con el tarro de conserva, que lo ha clasificado incorrectamente por su forma.
+Los resultados han sido generalmente positivos, excepto por la última prueba, con el tarro de conserva, que lo ha clasificado incorrectamente por su forma.
